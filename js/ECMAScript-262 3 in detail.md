@@ -50,3 +50,154 @@ Function.prototype中定义了两种方法可以在函数调用时手动指定th
 
 ### 总结
 在这篇文章中，我们讨论了ECMAScript中this关键字的特征。我希望这篇文章有助于更准确的认识ECMAScript中this关键字的工作原理。和以前一样，我很乐意在评论中回答你们的问题。
+
+
+# chapter7.1 oop-general-theory
+[url](http://dmitrysoshnikov.com/ecmascript/chapter-7.2-oop-ecmascript-implementation/)
+
+## Introduction
+## General provisions, paradigms and ideology
+## feture <- class based & prototype based models   
+
+ feture <- static class based models
+ 1. create an object <= define its class
+ 2. class => object(instances)
+ 3. resolution <- methods : chain <- inheritance : strict,direct,unchangeable
+ 4. class-descendant[ all properties <- inheritance chain]
+ 5. being created, change class !=> change instances;
+ 6. class => behavior, properties <- instance 
+
+ feture <- static class based models
+ 1. basic concept: object;
+ 2. objects: fully dynamic, mutable
+ 3. no classes
+ 4. if(!answer(message) themselves): delegate(prototypes,message)
+ 5. object prototype: changed at any time
+ 6. delegation based: change in prototype effect related object
+ 7. concatenative: not effect
+ 8. if(!answer(message)): can signal the caller to take additional measure
+ 9. identification: not type, but current set of characteristics
+ 
+ # chapter7.2 OOP: ECMAScript implementation
+
+ ## Introduction
+
+ ## ECMAScript OOP implementation
+
+ ### Data types
+ #### Primitive value types
+ #### Object type
+ ##### Dynamic nature
+ ##### Built-in, native and host objects
+ ##### Boolean, String and Number objects
+
+ ### Constructor (_new_)
+_Constructor: a function that *creates* and *initializes* the newly created object.  => new Fun_
+
+_creates (auto): memory allocation => Fun[[Construct]]_
+
+_initialization (user code)=> Fun[[call]].apply(created object)_
+
+> F = new NativeObject();
+>  
+> F.[[Class]] = "Function"
+>  
+> .... // other properties
+>  
+> F.[[Call]] = <reference to function> // function itself
+>  
+> F.[[Construct]] = internalConstructor // general internal constructor
+>  
+> .... // other properties
+>  
+> // prototype of objects created by the F constructor
+> __objectPrototype = {};
+> __objectPrototype.constructor = F // {DontEnum}
+> F.prototype = __objectPrototype
+
+ #### Algorithm of objects creation
+ 
+>  F.[\[Construct]](initialParameters):
+>  
+> O = new NativeObject();
+>  
+> // property [\[Class]] is set to "Object", i.e. simple object
+> O.[\[Class]] = "Object"
+>  
+> // get the object on which
+> // at the moment references F.prototype
+> var __objectPrototype = F.prototype;
+>  
+> // if __objectPrototype is an object, then:
+> O.[\[Prototype]] = __objectPrototype
+> // else:
+> O.[\[Prototype]] = Object.prototype;
+> // where O.[\[Prototype]] is the prototype of the object
+>  
+> // initialization of the newly created object
+> // applying the F.[\[Call]]; pass:
+> // as this value – newly created object - O,
+> // arguments are the same as initialParameters for F
+> R = F.[\[Call]](initialParameters); this === O;
+> // where R is the returned value of the [\[Call]]
+> // in JS view it looks like:
+> // R = F.apply(O, initialParameters);
+>  
+> // if R is an object
+> return R
+> // else
+> return O
+
+ ### Prototype
+ #### Property contructor
+ - contructor is property of prototype
+ - auto creat in new object creation
+ - new object.contructor -> NativeObject.prototype.contructor
+ - NativeObject.prototype.contructor could be overwrite, and reset.
+
+ #### Explicit prototype and implicit [\[Prototype]] properties
+
+>  // was before changing of A.prototype
+> a.[\[Prototype\]] ----> Prototype <---- A.prototype
+>  
+> // became after
+> A.prototype ----> New prototype // new objects will have this prototype
+> a.[\[Prototype\]] ----> Prototype // reference to old prototype
+
+- object get prototype by inner implicit reference [\[Prototype]]
+- function's explicit prototype property use to initial implicit [\[Prototype]] properties at object creation. They both reference to same prototype object.
+- we can use explicit prototype to modify the prototype object.
+- replacing prototype property of the constructor does not affect the prototype of already created objects.
+- The main rule here is: the object’s prototype is set at the moment of object’s creation and after that cannot be changed to new object. Using the explicit prototype reference from the constructor if it still refers to the same object, it is possible only to add new or modify existing properties of the object’s prototype.
+- function's prototype != function's prototype property
+
+ #### Non-standard __proto__ property
+ - we may use __proto__ as inner [\[Prototype]] property.
+ - we can query object's prototype by Object.getPrototypeOf(obj) in ES5.
+
+ #### Object is independent from its constructor
+ - prototype of an instance (via [\[Prototype]] reference) is independent from the constructor & the prototype property of the constructor.
+ 
+ #### Feature of instanceof operator
+ - This operator works exactly with the prototype chain of an object but not with the constructor itself
+
+ #### Prototype as a storage for methods and shared properties
+
+ ### Reading and writing properties
+ #### [\[Get]] method
+ #### [\[Put]] method
+ #### Property accessors
+ - dot notation
+ - bracket notation
+ - property accessor always calls ToObject conversion for the object standing on left hand side from the property accessor. 
+ 
+ ### Inheritance
+
+- ECMAScript uses delegating inheritance based on prototypes.
+- [\[Get]] mehtod.
+
+>  alert(1..toString());
+
+ #### Prototype chain
+
+
