@@ -1,0 +1,1037 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"l",
+				"list-style-image"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"bo",
+				"border-left"
+			],
+			[
+				"txt",
+				"text-align"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"background-cl",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"create",
+				"createMask"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"En",
+				"Engine"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"tra",
+				"travsyn"
+			],
+			[
+				"cl",
+				"collapsicon"
+			],
+			[
+				"no",
+				"nodeName"
+			],
+			[
+				"show",
+				"showParent"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"fi",
+				"firstChild"
+			],
+			[
+				"n",
+				"nodeName"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"b",
+				"bolder"
+			],
+			[
+				"borb",
+				"border-bottom-width"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"g",
+				"g_stack"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"text-st",
+				"text-decoration-style"
+			],
+			[
+				"s",
+				"x-small"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"in",
+				"innerText"
+			],
+			[
+				"bub",
+				"bubleState"
+			],
+			[
+				"bu",
+				"bubleState"
+			],
+			[
+				"patt",
+				"pattern_str"
+			],
+			[
+				"te",
+				"textContent"
+			],
+			[
+				"city",
+				"city-height"
+			],
+			[
+				"map",
+				"map-height"
+			],
+			[
+				"footer",
+				"footer-height"
+			],
+			[
+				"head",
+				"header-height"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"d",
+				"decimal-leading-zero"
+			],
+			[
+				"t",
+				"text-transform"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"fonttr",
+				"font-variant"
+			],
+			[
+				"font-var",
+				"font-variant-caps"
+			],
+			[
+				"font-v",
+				"font-variant-caps"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"boxs",
+				"box-sizing"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wdith",
+				"column-width"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"data",
+				"datalist\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"tx",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"dec",
+				"text-decoration-style"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"HEA",
+				"HEADER\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "前端日志.md",
+			"settings":
+			{
+				"buffer_size": 706,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "HTML语法总结.md",
+			"settings":
+			{
+				"buffer_size": 18,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CSS语法总结.md",
+			"settings":
+			{
+				"buffer_size": 8900,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "demo.html",
+			"settings":
+			{
+				"buffer_size": 619,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "demo.css",
+			"settings":
+			{
+				"buffer_size": 831,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "demo.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "PhotoShop用法总结.md",
+			"settings":
+			{
+				"buffer_size": 41,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Markdown语法总结.md",
+			"settings":
+			{
+				"buffer_size": 592,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 390.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Add Channel"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Mr.Tan/Desktop/houseSupermarket/house.sublime-project",
+		"/C/Users/Mr.Tan/Desktop/houseSupermarket/newsList.html",
+		"/C/Users/Mr.Tan/Desktop/houseSupermarket/css/base.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/HTML语法总结.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/编程规范/开发范式.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/PhotoShop用法总结.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/CSS语法总结.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/Markdown语法总结.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/markdown.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/编程规范/code.txt",
+		"/C/Users/Mr.Tan/Desktop/houseSupermarket/js/base.js",
+		"/C/Users/Mr.Tan/Desktop/前端开发/网站案例/瀚华内网/demo/css/base.css",
+		"/C/Users/Mr.Tan/Desktop/前端开发/网站案例/瀚华内网/main.css",
+		"/C/Users/Mr.Tan/Desktop/前端开发/网站案例/瀚华内网/index.html",
+		"/C/Users/Mr.Tan/Desktop/前端开发/网站案例/style/css.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_26/应用建模.md",
+		"/C/Users/Mr.Tan/Desktop/优房超+UI界面/优房超 UI界面/财富超/base.css",
+		"/C/Users/Mr.Tan/Desktop/优房超+UI界面/优房超 UI界面/财富超/财富超过渡页.html",
+		"/C/Users/Mr.Tan/Desktop/优房超+UI界面/优房超 UI界面/财富超/transit.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/js/bookmarklet.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/设计模式/book/bower_components/codecode/codecode - 副本.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/设计模式/book/bower_components/codecode/codecode.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/设计模式/book/my.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/设计模式/book/my.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/设计模式/book/bower_components/codecode/codecode.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/设计模式/book/Learning JavaScript Design Patterns.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_25/task.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_26/task.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_26/style.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/设计模式/book/styles/shThemeRDark.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/设计模式/book/styles/style.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/设计模式/book/styles/shCore.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/设计模式/book/styles/sausage.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/设计模式/book/styles/base.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_26/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/设计模式/book/Learning JavaScript Design Patterns_files/analytics.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_25/style.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/前端日志.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_25/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_25/readme.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_6/main.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_7/main.less",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_7/main.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_24/style.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_24/task.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_24/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_24/readme.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_23/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_23/task.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_22/task.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_23/readme.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_22/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/tankunpeng.github.io/js/test.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/tankunpeng.github.io/fe/IFE/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/tankunpeng.github.io/fe/IFE/ife.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/js/examples/examples/22.01.getmap.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/tankunpeng.github.io/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/tankunpeng.github.io/js/CommandLineAPI.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/tankunpeng.github.io/fe/javascript/jquery/test.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/js/ECMAScript-262 5 in detail.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/js/JavaScript权威指南.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/js/examples/examples/06.04.classof.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/js/examples/examples/06.01.inherit.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/js/examples/examples/06.02.extend.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/js/ECMAScript-262 3 in detail.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/js/scratchpad.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/FE-learning/js/ECMAScript-262 3 detail.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_8/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_8/readme.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_13/index.html",
+		"/C/Users/Mr.Tan/Desktop/前端开发/网站案例/瀚华内网/demo/index.html",
+		"/C/Users/Mr.Tan/Desktop/前端开发/网站案例/瀚华内网/demo/js/base.js",
+		"/C/Users/Mr.Tan/Desktop/前端开发/网站案例/瀚华内网/demo/css/reset.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_22/readme.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_21/task.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_21/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_21/readme.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_21/log.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_3_1/main.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_5/main.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_4/main.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_19/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_18/task.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_20/task.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_20/log.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_20/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_17/task.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_16/task.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_19/task.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_19/log.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_18/log.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_18/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_17/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_17/新建文本文档.md",
+		"/C/Users/Mr.Tan/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/C/Users/Mr.Tan/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_17/新建文本文档.html",
+		"/C/Users/Mr.Tan/AppData/Roaming/Sublime Text 3/Packages/Markdown Slideshow/Default.sublime-keymap",
+		"/C/Users/Mr.Tan/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownSlideshow.sublime-settings",
+		"/C/Users/Mr.Tan/AppData/Roaming/Sublime Text 3/Packages/Markdown Slideshow/MarkdownSlideshow.sublime-settings",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_16/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_14/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_15/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_7/index.html",
+		"/D/nuomi/new/database/dealInfo/2989872",
+		"/D/nuomi/重构/src/deal/9587810.deal",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_6/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_6/test.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_6/test.less",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_6/test.html",
+		"/C/Users/Mr.Tan/AppData/Roaming/Sublime Text 3/Packages/Less2Css/README.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_6/main.less",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_5/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_4/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_4/readme.md",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_3_1/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_2_1/main.css",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_2_1/index.html",
+		"/C/Users/Mr.Tan/Desktop/前端开发/网站案例/瀚华内网/js/main.js",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_1_1/index.html",
+		"/C/Users/Mr.Tan/Documents/GitHub/IFE2016/task_1_2_1/readme.md",
+		"/C/Users/Mr.Tan/Desktop/前端开发/网站案例/瀚华内网/js/main",
+		"/C/Users/Mr.Tan/Desktop/前端开发/fix_position.html",
+		"/C/Users/Mr.Tan/Desktop/前端开发/testcss.html",
+		"/C/Users/Mr.Tan/Desktop/前端开发/6-cssReset.html",
+		"/C/Users/Mr.Tan/Desktop/前端开发/网站案例/瀚华内网/css21_9.html",
+		"/C/Users/Mr.Tan/Desktop/前端开发/网站案例/整站完整版源文件/style/css.css",
+		"/C/Users/Mr.Tan/Desktop/前端开发/网站案例/整站完整版源文件/index.html"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"{}",
+			"></",
+			"go back to the code",
+			"ga",
+			"===\"\")",
+			"this值",
+			"  \n",
+			": ",
+			"  \t\n",
+			"\t\n",
+			"=\"\">",
+			".main{margin-right: -404px}\n",
+			"% ",
+			"阿里巴巴",
+			" padding:20px; margin: 20px",
+			"5px",
+			"content",
+			"!",
+			"<!",
+			"!",
+			"！"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "前端日志.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								620,
+								620
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "HTML语法总结.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"parser": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"target": "disk"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "CSS语法总结.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"parser": "markdown",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"tab_size": 4,
+							"target": "disk",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "demo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								423,
+								423
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "demo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								496,
+								496
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 641.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "demo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "PhotoShop用法总结.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Markdown语法总结.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 73.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 164.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
